@@ -1,1 +1,175 @@
-{"name":"flare","children":[{"name":"Northern Mystics vs Canterbury Tactix","count":2,"children":[{"name":"Canterbury Tactix","score":"44–48","value":5},{"name":"Northern Mystics","score":"50–46","value":5}]},{"name":"Waikato Bay of Plenty Magic vs Adelaide Thunderbirds","count":2,"children":[{"name":"Waikato Bay of Plenty Magic","score":"46–42","value":5},{"name":"Waikato Bay of Plenty Magic","score":"51-49","value":5}]},{"name":"Melbourne Vixens vs Queensland Firebirds","count":2,"children":[{"name":"Melbourne Vixens","score":"62–52","value":5},{"name":"Queensland Firebirds","score":"60–51","value":5}]},{"name":"New South Wales Swifts vs Waikato Bay of Plenty Magic","count":3,"children":[{"name":"New South Wales Swifts","score":"50–47","value":5},{"name":"New South Wales Swifts","score":"56-57","value":5},{"name":"New South Wales Swifts","score":"65-56","value":5}]},{"name":"Melbourne Vixens vs Adelaide Thunderbirds","count":3,"children":[{"name":"Adelaide Thunderbirds","score":"38–39","value":5},{"name":"Melbourne Vixens","score":"46–52","value":5},{"name":"Adelaide Thunderbirds","score":"53-48","value":5}]},{"name":"Canterbury Tactix vs Southern Steel","count":2,"children":[{"name":"Southern Steel","score":"42–51","value":5},{"name":"Canterbury Tactix","score":"48–51","value":5}]},{"name":"Southern Steel vs Northern Mystics","count":2,"children":[{"name":"Northern Mystics","score":"48–50","value":5},{"name":"Northern Mystics","score":"47–41","value":5}]},{"name":"Central Pulse vs Canterbury Tactix","count":2,"children":[{"name":"Canterbury Tactix","score":"50–55","value":5},{"name":"Canterbury Tactix","score":"50–49","value":5}]},{"name":"Waikato Bay of Plenty Magic vs Southern Steel","count":2,"children":[{"name":"Waikato Bay of Plenty Magic","score":"56–47","value":5},{"name":"Southern Steel","score":"47–43","value":5}]},{"name":"Adelaide Thunderbirds vs New South Wales Swifts","count":2,"children":[{"name":"New South Wales Swifts","score":"44–50","value":5},{"name":"New South Wales Swifts","score":"51–41","value":5}]}]}
+{
+   "name":"flare",
+   "children":[
+      {
+         "name":"Northern Mystics vs Canterbury Tactix",
+         "count":2,
+         "children":[
+            {
+               "name":"Canterbury Tactix",
+               "score":"44–48",
+               "value":5
+            },
+            {
+               "name":"Northern Mystics",
+               "score":"50–46",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"Waikato Bay of Plenty Magic vs Adelaide Thunderbirds",
+         "count":2,
+         "children":[
+            {
+               "name":"Waikato Bay of Plenty Magic",
+               "score":"46–42",
+               "value":5
+            },
+            {
+               "name":"Waikato Bay of Plenty Magic",
+               "score":"51-49",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"Melbourne Vixens vs Queensland Firebirds",
+         "count":2,
+         "children":[
+            {
+               "name":"Melbourne Vixens",
+               "score":"62–52",
+               "value":5
+            },
+            {
+               "name":"Queensland Firebirds",
+               "score":"60–51",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"New South Wales Swifts vs Waikato Bay of Plenty Magic",
+         "count":3,
+         "children":[
+            {
+               "name":"New South Wales Swifts",
+               "score":"50–47",
+               "value":5
+            },
+            {
+               "name":"New South Wales Swifts",
+               "score":"56-57",
+               "value":5
+            },
+            {
+               "name":"New South Wales Swifts",
+               "score":"65-56",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"Melbourne Vixens vs Adelaide Thunderbirds",
+         "count":3,
+         "children":[
+            {
+               "name":"Adelaide Thunderbirds",
+               "score":"38–39",
+               "value":5
+            },
+            {
+               "name":"Melbourne Vixens",
+               "score":"46–52",
+               "value":5
+            },
+            {
+               "name":"Adelaide Thunderbirds",
+               "score":"53-48",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"Canterbury Tactix vs Southern Steel",
+         "count":2,
+         "children":[
+            {
+               "name":"Southern Steel",
+               "score":"42–51",
+               "value":5
+            },
+            {
+               "name":"Canterbury Tactix",
+               "score":"48–51",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"Southern Steel vs Northern Mystics",
+         "count":2,
+         "children":[
+            {
+               "name":"Northern Mystics",
+               "score":"48–50",
+               "value":5
+            },
+            {
+               "name":"Northern Mystics",
+               "score":"47–41",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"Central Pulse vs Canterbury Tactix",
+         "count":2,
+         "children":[
+            {
+               "name":"Canterbury Tactix",
+               "score":"50–55",
+               "value":5
+            },
+            {
+               "name":"Canterbury Tactix",
+               "score":"50–49",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"Waikato Bay of Plenty Magic vs Southern Steel",
+         "count":2,
+         "children":[
+            {
+               "name":"Waikato Bay of Plenty Magic",
+               "score":"56–47",
+               "value":5
+            },
+            {
+               "name":"Southern Steel",
+               "score":"47–43",
+               "value":5
+            }
+         ]
+      },
+      {
+         "name":"Adelaide Thunderbirds vs New South Wales Swifts",
+         "count":2,
+         "children":[
+            {
+               "name":"New South Wales Swifts",
+               "score":"44–50",
+               "value":5
+            },
+            {
+               "name":"New South Wales Swifts",
+               "score":"51–41",
+               "value":5
+            }
+         ]
+      }
+   ]
+}
